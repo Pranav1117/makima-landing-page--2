@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { Nunito } from "next/font/google";
-import { motion, TargetAndTransition } from "motion/react";
+import { motion } from "motion/react";
 
 const nunito = Nunito({ subsets: ["latin"], weight: ["400", "700"] });
 

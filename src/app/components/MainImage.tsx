@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import { motion, TargetAndTransition } from "motion/react";
+import { motion } from "motion/react";
 
 const MainImage = () => {
   return (

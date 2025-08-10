@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { Nunito } from "next/font/google";
-import { Anton, Outfit, Dosis, Quicksand } from "next/font/google";
+import { Anton, Outfit, Dosis } from "next/font/google";
 import { motion } from "motion/react";
 
 const anton = Anton({ weight: "400", subsets: ["latin"] });
